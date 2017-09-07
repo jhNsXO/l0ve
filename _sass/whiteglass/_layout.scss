@@ -18,7 +18,6 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
   }
 }
 
@@ -56,7 +55,6 @@
 .site-footer {
   padding: $spacing-unit 0;
   font-size: 15px;
-  color: $grey-color;
   text-align: center;
 }
 
@@ -85,7 +83,7 @@
     margin-bottom: $spacing-unit * 2;
 
     &:not(:first-child) {
-      border-top: 4px solid $grey-color-light;
+      border-top: 4px solid ;
       padding-top: $spacing-unit * 2;
     }
   }
@@ -106,17 +104,14 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
 }
 
 .post-link {
   &,
   &:visited {
-    color: $text-color;
   }
 
   &:hover {
-    color: $brand-color;
   }
 }
 
@@ -127,13 +122,12 @@
 
     &,
     &:visited {
-      color: $grey-color;
-      background-color: $grey-color-light;
+
     }
 
     &:hover {
       color: white;
-      background-color: $brand-color;
+ 
     }
   }
 }
@@ -192,8 +186,8 @@
  */
 .pagination {
   padding: $spacing-unit / 2 0;
-  border-top: 1px solid $grey-color-light;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 1px solid ;
+  border-bottom: 1px solid ;
   text-align: center;
   @extend %clearfix;
 
