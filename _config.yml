@@ -17,7 +17,7 @@ title: l0v.es
 author: jhNs
 description: Some shit
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jhnsxo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://l0v.es" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
